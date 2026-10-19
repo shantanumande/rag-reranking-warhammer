@@ -1,0 +1,17 @@
+{
+  "PyMuPDF page.get_text()": {
+    "sentences_checked": 644,
+    "broken": 2,
+    "broken_pct": 0.3
+  },
+  "pdftotext (default)": {
+    "sentences_checked": 644,
+    "broken": 126,
+    "broken_pct": 19.6
+  },
+  "pdftotext -layout": {
+    "sentences_checked": 644,
+    "broken": 428,
+    "broken_pct": 66.5
+  }
+}

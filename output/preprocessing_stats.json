@@ -1,0 +1,40 @@
+{
+  "pdf_pages": 60,
+  "pages_skipped": {
+    "1": "cover",
+    "2": "artwork, no text",
+    "4": "overview of how the book is laid out (meta, not rules)",
+    "27": "weapon illustration page (only weapon names)",
+    "31": "full-page diagram (only callout numbers)",
+    "37": "example datasheet diagram (labels and stat lines, no rules)",
+    "40": "artwork, no text",
+    "50": "example battlefield map caption",
+    "51": "example battlefield map caption",
+    "52": "example battlefield map caption"
+  },
+  "pages_kept": 50,
+  "sections": 257,
+  "chunks_total": 294,
+  "chunks_rule": 217,
+  "chunks_summary": 66,
+  "chunks_example": 11,
+  "chunk_words_min": 11,
+  "chunk_words_median": 62.0,
+  "chunk_words_max": 299,
+  "corpus_words": 23022,
+  "sentence_integrity": {
+    "sentences_checked": 644,
+    "intact_in_naive_extraction": 642,
+    "broken_in_naive_extraction": 2,
+    "broken_examples": [
+      {
+        "chunk_id": "wh-174",
+        "sentence": "Note that all of the attacks you have declared targets for are always resolved against the target units, even if, when you come to resolve an attack, no models in the target unit of that attack remain within Engagement Range of the attacking model’s unit (because of models being destroyed as the result of other attacks made by the attacking model’s unit, for example)."
+      },
+      {
+        "chunk_id": "wh-241",
+        "sentence": "Below is an example of a battlefield set up for a Strike Force battle, with a good mixture of different terrain features\nMatched Play Focused: This is a Strike Force battlefield (44\" x 60\") set up with an aspirational number and mixture of terrain features."
+      }
+    ]
+  }
+}

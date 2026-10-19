@@ -1,0 +1,46 @@
+{
+  "nvidia/nemotron-3.5-super-vl:free|What do I need to roll to wound if my attack's Strength is equal to the target's Toughness?|wh-098,wh-097,wh-095": {
+    "answer": "Strength is EQUAL to the Toughness: wound on 4+. [wh-098]",
+    "seconds": 4.429978399999527
+  },
+  "nvidia/nemotron-3.5-super-vl:free|What do I need to roll to wound if my attack's Strength is equal to the target's Toughness?|": {
+    "answer": "The provided rules do not cover this.",
+    "seconds": 3.640854600000239
+  },
+  "nvidia/nemotron-3.5-super-vl:free|What do I need to roll to wound if my attack's Strength is equal to the target's Toughness?|wh-098-FAKE,wh-097,wh-095": {
+    "answer": "Strength is EQUAL to the Toughness: wound on 5+. [wh-098-FAKE]",
+    "seconds": 22.288573899999392
+  },
+  "nvidia/nemotron-3.5-super-vl:free|What do I need to roll to wound if my attack's Strength is equal to the target's Toughness?|wh-098,wh-097,wh-099": {
+    "answer": "You need to roll a 4+.\n\n\"Strength is EQUAL to the Toughness: wound on 4+.\" [wh-098]",
+    "seconds": 5.618076999999175
+  },
+  "nvidia/nemotron-3.5-super-vl:free|What do I need to roll to wound if my attack's Strength is equal to the target's Toughness?|wh-098,wh-097,wh-117": {
+    "answer": "Strength is EQUAL to the Toughness: wound on 4+. [wh-098]",
+    "seconds": 69.69099689999894
+  },
+  "nvidia/nemotron-3.5-super-vl:free|My unit is in Engagement Range of an enemy. Is there any weapon it can still shoot with?|wh-092,wh-088,wh-091": {
+    "answer": "Generally, no—unless the unit is a Monster or Vehicle, or its models are equipped with Pistols.\n\n[wh-088] states: “A unit is not eligible to shoot while it is within Engagement Range of one or more enemy units.” It adds that “Monster and Vehicle units are exceptions to these rules.”\n\n[wh-091] confirms: “Monster and Vehicle units are eligible to shoot in their controlling player’s Shooting phase even while they are within Engagement Range of one or more enemy units.” It also notes that unless the attack is made with a Pistol, subtract 1 from that attack’s Hit roll.\n\n[wh-092] Designer’s Note further specifies that a unit can be eligible to shoot while within Engagement Range of enemy units if “its models are equipped with Pistols.”\n\nSo a unit in Engagement Range can still shoot if it is a Monster or Vehicle (using its ranged weapons, with non-Pistol attacks at –1 to Hit) or if its models are armed with Pistols. Otherwise, it cannot shoot.",
+    "seconds": 109.48558140000023
+  },
+  "nvidia/nemotron-3.5-super-vl:free|My unit is in Engagement Range of an enemy. Is there any weapon it can still shoot with?|wh-092,wh-125,wh-088": {
+    "answer": "Yes. If the unit contains any models equipped with Pistols, it is eligible to shoot even while within Engagement Range of enemy units, though it may only resolve attacks with those Pistols and may only target one of the enemy units it is within Engagement Range of.\n\n> “If a unit contains any models equipped with Pistols, that unit is eligible to shoot in its controlling player’s Shooting phase even while it is within Engagement Range of one or more enemy units. When such a unit is selected to shoot, it can only resolve attacks using its Pistols and can only target one of the enemy units it is within Engagement Range of.” [wh-125]\n\nAdditionally, [wh-088] states that Monster and Vehicle units are exceptions to the general “Locked in Combat” shooting restriction.",
+    "seconds": 51.9090956
+  },
+  "nvidia/nemotron-3.5-super-vl:free|Do any weapons get a bonus to their wound roll if the unit charged this turn?|wh-139,wh-151,wh-120": {
+    "answer": "The provided rules do not cover this.",
+    "seconds": 5.035058999999819
+  },
+  "nvidia/nemotron-3.5-super-vl:free|Do any weapons get a bonus to their wound roll if the unit charged this turn?|wh-129,wh-207,wh-212": {
+    "answer": "Yes. Weapons with the [LANCE] ability add 1 to their Wound roll if the bearer made a Charge move this turn.\n\n> \"Weapons with [LANCE] in their profile are known as Lance weapons. Each time an attack is made with such a weapon, if the bearer made a Charge move this turn, add 1 to that attack’s Wound roll.\" [wh-129]",
+    "seconds": 3.396299199999703
+  },
+  "nvidia/nemotron-3.5-super-vl:free|My attack wounded an enemy unit led by a Character. Can I allocate that wound to the Character?|wh-101,wh-197,wh-102": {
+    "answer": "If the unit is an **Attached unit** (a Bodyguard unit containing a Leader), then no: [wh-197] states that “each time an attack successfully wounds an Attached unit, that attack cannot be allocated to a Character model in that unit, even if that Character model has lost one or more wounds or has already had attacks allocated to it this phase.”\n\nThe excerpts do not state that a unit merely “led by a Character” is an Attached unit, so they do not specifically cover a generic Character-led unit. Under the general allocation rule [wh-101], absent the Attached restriction, the attack can be allocated to any model unless a model has already lost wounds or had attacks allocated this phase.",
+    "seconds": 94.28075329999956
+  },
+  "nvidia/nemotron-3.5-super-vl:free|My attack wounded an enemy unit led by a Character. Can I allocate that wound to the Character?|wh-197,wh-133,wh-101": {
+    "answer": "It depends on whether the enemy unit is an **Attached unit**.\n\nIf it is an Attached unit (a Bodyguard unit containing a Leader), then **no**—unless an exception applies.  \n[wh-197] states: “Each time an attack successfully wounds an Attached unit, that attack cannot be allocated to a Character model in that unit, even if that Character model has lost one or more wounds or has already had attacks allocated to it this phase.”  \n\nExceptions noted in the excerpts:  \n- [wh-133] Precision allows the attacking player to allocate the attack to a Character model in the Attached unit visible to the bearer.  \n- [wh-197] also says that as soon as the last Bodyguard model in an Attached unit has been destroyed, any remaining unallocated attacks can then be allocated to Character models in that unit.\n\nIf the unit is **not** an Attached unit, then [wh-101] applies: the player controlling the target unit allocates the attack to any model in the target unit, so **yes**, they can allocate it to the Character (subject to [wh-101]’s priority for models that have already lost wounds or been allocated attacks this phase).",
+    "seconds": 31.629452999999558
+  }
+}

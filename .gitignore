@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# environment / tooling
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.claude/
+
+# copyrighted PDF, assignment brief, old copies
+*.pdf
+shantanu.zip
+shantanu/
+
+# report drafts and editor lock files
+report_skeleton*.docx
+~$*
+.~lock.*

@@ -1,0 +1,209 @@
+[
+  {
+    "question": "What do I need to roll to wound if my attack's Strength is equal to the target's Toughness?",
+    "gold": [
+      "wh-098"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  },
+  {
+    "question": "Can my units shoot at an enemy Monster that is already fighting my other units in Engagement Range?",
+    "gold": [
+      "wh-091",
+      "wh-093"
+    ],
+    "bi_rank": 2,
+    "ce_rank": 2
+  },
+  {
+    "question": "My unit is in Engagement Range of an enemy. Is there any weapon it can still shoot with?",
+    "gold": [
+      "wh-125",
+      "wh-126"
+    ],
+    "bi_rank": 2,
+    "ce_rank": 4
+  },
+  {
+    "question": "My unit Advanced this turn. Can it still shoot?",
+    "gold": [
+      "wh-119",
+      "wh-120"
+    ],
+    "bi_rank": 4,
+    "ce_rank": 4
+  },
+  {
+    "question": "What happens to a Character that rolls a 1 when firing a Hazardous weapon?",
+    "gold": [
+      "wh-140",
+      "wh-141"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  },
+  {
+    "question": "Is a unit prohibited from shooting in the turn it Fell Back?",
+    "gold": [
+      "wh-058"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  },
+  {
+    "question": "Do the targets of a charge need to be visible to the charging unit?",
+    "gold": [
+      "wh-152"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  },
+  {
+    "question": "How far can my troops run if they sprint during movement?",
+    "gold": [
+      "wh-056",
+      "wh-057"
+    ],
+    "bi_rank": null,
+    "ce_rank": null
+  },
+  {
+    "question": "Does a tank explode and hurt nearby units when it is destroyed?",
+    "gold": [
+      "wh-113"
+    ],
+    "bi_rank": null,
+    "ce_rank": null
+  },
+  {
+    "question": "Can a unit attack an enemy in close combat if it is not touching or near it?",
+    "gold": [
+      "wh-172"
+    ],
+    "bi_rank": null,
+    "ce_rank": null
+  },
+  {
+    "question": "My infantry are stuck in Engagement Range with the enemy. What kind of weapon lets them still make a ranged attack?",
+    "gold": [
+      "wh-125",
+      "wh-126"
+    ],
+    "bi_rank": null,
+    "ce_rank": null
+  },
+  {
+    "question": "Can my unit shoot at an enemy unit it has no line of sight to?",
+    "gold": [
+      "wh-130",
+      "wh-131"
+    ],
+    "bi_rank": null,
+    "ce_rank": null
+  },
+  {
+    "question": "If my Transport is destroyed, do the units inside get hit by its explosion?",
+    "gold": [
+      "wh-077",
+      "wh-078"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  },
+  {
+    "question": "Can Feel No Pain stop mortal wounds?",
+    "gold": [
+      "wh-111",
+      "wh-112"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  },
+  {
+    "question": "Can my unit fight an enemy on the other side of a barricade that is more than 1 inch away?",
+    "gold": [
+      "wh-226"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  },
+  {
+    "question": "Can my squad get back into its Transport in the same phase it got out?",
+    "gold": [
+      "wh-073",
+      "wh-074"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  },
+  {
+    "question": "Does Armour Penetration make an invulnerable save worse?",
+    "gold": [
+      "wh-105",
+      "wh-106"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 2
+  },
+  {
+    "question": "Do heavy weapons still get +1 to hit if my unit moved this turn?",
+    "gold": [
+      "wh-138",
+      "wh-139"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  },
+  {
+    "question": "Can a model that flies end its move on top of enemy models?",
+    "gold": [
+      "wh-064",
+      "wh-065"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  },
+  {
+    "question": "Can my Deep Strike unit arrive closer than 9 inches to the enemy?",
+    "gold": [
+      "wh-191",
+      "wh-192"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  },
+  {
+    "question": "Can I snipe the Character leading an enemy unit instead of hitting the bodyguards?",
+    "gold": [
+      "wh-132",
+      "wh-133"
+    ],
+    "bi_rank": null,
+    "ce_rank": null
+  },
+  {
+    "question": "Can I shoot during my opponent's turn when their unit moves or charges?",
+    "gold": [
+      "wh-209"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  },
+  {
+    "question": "Do my models on the upper floors of a ruin get a bonus when shooting enemies on the ground?",
+    "gold": [
+      "wh-237"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  },
+  {
+    "question": "Does my unit get any advantage in the fight for having charged that turn?",
+    "gold": [
+      "wh-151"
+    ],
+    "bi_rank": 1,
+    "ce_rank": 1
+  }
+]

@@ -1,0 +1,5 @@
+pymupdf>=1.24
+numpy
+sentence-transformers
+openai
+jupyter
