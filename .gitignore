@@ -7,12 +7,15 @@ __pycache__/
 .ipynb_checkpoints/
 .claude/
 
-# copyrighted PDF, assignment brief, old copies
+# PDFs: ignore all (copyrighted rulebook, assignment brief) except the final report
 *.pdf
+!FINAL_RAG_REPORT.pdf
 shantanu.zip
 shantanu/
 
-# report drafts and editor lock files
-report_skeleton*.docx
+# Word/LibreOffice documents (drafts, editable report) and editor lock files
+*.docx
+*.doc
+*.odt
 ~$*
 .~lock.*
